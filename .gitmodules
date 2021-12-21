@@ -1,0 +1,3 @@
+[submodule "Flashcard_Game"]
+	path = Flashcard_Game
+	url = git@github.com:formidablae/Flashcard_Game.git
